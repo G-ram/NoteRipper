@@ -1,6 +1,6 @@
 #NoteRipper
 
-NoteRipper rips Sparknotes from the site and formats them, removing adds and making it easier to print them out.
+NoteRipper rips Sparknotes from the site and formats them, removing adds and making it easier to print them out and save them.
 
 #Setup and Use
 The .jar file should not be moved from the folder. Simply click on it and wait for it to launch. Navigate to the "contents" page of a book on the Sparknotes site (Ex: [Lord of the Rings](http://www.sparknotes.com/film/lordoftherings/)) and copy and paste url into program's url field. Then click generate. Formatting may not be entirely correct.
